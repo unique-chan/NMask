@@ -1,5 +1,5 @@
 <h1 align="center">
-  N<sup>Segment</sup>+: Unlocking Robust Semantic Segmentation Performance via Label-only Elastic Deformations against Implicit Label Noise
+  N<sup>Mask</sup>: Unlocking Robust Semantic Segmentation Performance via Label-only Elastic Deformations against Implicit Label Noise
 </h1>
 
 <p align="center">
